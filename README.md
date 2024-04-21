@@ -1,1 +1,2 @@
-# ex-6
+include <stdio.h>
+print("geethika")
